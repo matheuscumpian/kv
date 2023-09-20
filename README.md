@@ -1,6 +1,6 @@
 # KV
 
-**TODO: Add description**
+Simple distributed in-memory KV Store
 
 ## Installation
 
